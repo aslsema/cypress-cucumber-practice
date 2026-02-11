@@ -25,7 +25,7 @@ features → Gherkin scenarios written in .feature files
 step_definitions → Step implementations
 pages → Page Object Model structure
 support → Cypress custom commands and configuration
-
+```
 ## **Implemented Scenarios**
 
 ### **Login Practice**
