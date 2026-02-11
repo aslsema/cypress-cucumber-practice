@@ -1,4 +1,16 @@
-node_modules
-cypress/videos
-cypress/screenshots
-.env
+# Node modules
+node_modules/
+
+# Cypress artifacts
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Instructor notes
+README.md
